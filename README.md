@@ -239,7 +239,3 @@ Refactor the code to ensure that the test cases pass.
     15 passing (103ms)
     ```
 
-### Submission Instructions
-
-1. This practice would be manually evaluated.​
-2. Push the code to git and share the link with mentor for manual evaluation.
